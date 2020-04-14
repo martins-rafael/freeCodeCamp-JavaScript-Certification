@@ -18,7 +18,7 @@ Certificação JavaScript da plataforma freeCodeCamp
 
 ## :computer: Módulos:
 - [Basic JavaScript](01-basic-javascript)
-- ES6
+- [ES6](02-es6)
 - Regular Expressions
 - Debugging
 - Basic Data Structures
