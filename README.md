@@ -13,7 +13,7 @@ Certificação JavaScript da plataforma freeCodeCamp
     <img src="https://img.shields.io/badge/License-MIT-0a0a22" alt="License MIT">
   </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/martins-rafael/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification?color=0a0a22">
-  <a href="https://github.com/martins-rafael/lorem-ipsum-veiculos/commits/master">
+  <a href="https://github.com/martins-rafael/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/martins-rafael/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification?color=0a0a22">
   </a>
   <img src="https://img.shields.io/badge/made%20by-Rafael%20Martins-0a0a22" alt="Made by Rafael Martins">
