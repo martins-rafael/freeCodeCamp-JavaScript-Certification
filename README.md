@@ -26,7 +26,7 @@ Certificação JavaScript da plataforma freeCodeCamp
 - [ES6](02-es6)
 - [Regular Expressions](03-regular-expressions)
 - [Debugging](04-debugging)
-- Basic Data Structures
+- [Basic Data Structures](05-basic-data-structures)
 - Basic Algorithm Scripting
 - Object Oriented Programing
 - Functional Programming
