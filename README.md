@@ -27,11 +27,11 @@ Certificação JavaScript da plataforma freeCodeCamp
 - [Regular Expressions](03-regular-expressions)
 - [Debugging](04-debugging)
 - [Basic Data Structures](05-basic-data-structures)
-- Basic Algorithm Scripting
-- Object Oriented Programing
-- Functional Programming
-- Intermediate Algorithm Scripting
-- JavaScript Algorithms and Data Structures Projects
+- [Basic Algorithm Scripting](06-basic-algorithm-scripting)
+- [Object Oriented Programing](07-object-oriented-programing)
+- [Functional Programming](08-functional-programming)
+- [Intermediate Algorithm Scripting](09-intermediate-algorithm-scripting)
+- [JavaScript Algorithms and Data Structures Projects](10-javaScript-algorithms-and-data-structures-projects)
 
 ## :memo: Licença
 
