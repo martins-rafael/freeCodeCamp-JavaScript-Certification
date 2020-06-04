@@ -9,14 +9,15 @@ Certificação JavaScript da plataforma freeCodeCamp
 <p align="center">Repositório para armazenar as soluções dos desafios e projetos do curso.</p>
 
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-0a0a22" alt="License MIT">
-  </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/martins-rafael/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification?color=0a0a22">
+  <img src="https://img.shields.io/badge/made%20by-Rafael%20Martins-0a0a22?style=flat-square" alt="Made by Rafael Martins">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/martins-rafael/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification?color=0a0a22&style=flat-square">
   <a href="https://github.com/martins-rafael/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/martins-rafael/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification?color=0a0a22">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/martins-rafael/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification?color=0a0a22&style=flat-square">
   </a>
-  <img src="https://img.shields.io/badge/made%20by-Rafael%20Martins-0a0a22" alt="Made by Rafael Martins">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-0a0a22?style=flat-square" alt="License MIT">
+  </a>
+  <img src="https://img.shields.io/badge/status-IN%20PROGRESS-0a0a22?style=flat-square" alt="status">
 </p>
 
 <br>
