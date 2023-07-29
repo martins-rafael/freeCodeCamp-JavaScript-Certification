@@ -3,10 +3,10 @@
   <img src="freeCodeCamp-logo.png" alt="freeCodeCamp" >
 <br>
 <br>
-Certificação JavaScript da plataforma freeCodeCamp
+JavaScript Algorithms and Data Structures Certification - freeCodeCamp
 </h1>
 
-<p align="center">Repositório para armazenar as soluções dos desafios e projetos do curso.</p>
+<p align="center">My solutions to the JavaScript Algorithms and Data Structures 300 hours Certification</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/made%20by-Rafael%20Martins-0a0a22?style=flat-square" alt="Made by Rafael Martins">
@@ -22,7 +22,7 @@ Certificação JavaScript da plataforma freeCodeCamp
 
 <br>
 
-## :computer: Módulos
+## :computer: Courses
 - [Basic JavaScript](01-basic-javascript)
 - [ES6](02-es6)
 - [Regular Expressions](03-regular-expressions)
@@ -34,6 +34,6 @@ Certificação JavaScript da plataforma freeCodeCamp
 - [Intermediate Algorithm Scripting](09-intermediate-algorithm-scripting)
 - [JavaScript Algorithms and Data Structures Projects](10-javaScript-algorithms-and-data-structures-projects)
 
-## :memo: Licença
+## :memo: License
 
-Esse estudo está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+MIT license. See the [LICENSE](/LICENSE) file for more details.
